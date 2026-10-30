@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.hypothesis/
+.coverage
+htmlcov/
+dist/
+*.egg-info/
+.DS_Store
+# Never commit generated key material or claim kits
+*.claimkit
+*.recovery
